@@ -67,7 +67,7 @@ Use **POST** requests in the following scenarios:
 
 - When you'll exceed the URL length restriction with a **GET** request.
 - When you can't specify the query parameters in a simple URL. For example, if you have to pass parameter values that contain a complex type array, or comma-separated strings, you have more flexibility when constructing the **POST** request.
-- When you use the  [ReorderingRules](#reorderingrules) parameter because it is supported only with **POST** requests.
+- When you use the  [ReorderingRules](#reorderingrules) parameter (because it is only supported with **POST** requests).
 
 ## Search REST results format
 
